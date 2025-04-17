@@ -221,4 +221,11 @@ This IRC bot provides a rich, interactive gaming experience via IRC, combining r
 Its modular design (user commands, shop, animal spawning, and admin functions) makes it both fun to play and easy to extend or customize.
 Feel free to modify or expand any aspect of the game to suit your needs. Enjoy the hunt!
 
+CREDITS CREDITS CREDITS
+The following usernames have helped me test this code to get as many errors, bugs, & flaws out as possible for this initial release
+HurricaneTornado - Since Day 1 - Greatly appreciated all the bugs and errors you have found!
+ScifiSpirit - Since Alpha Phase - Has found quite a few typos and most of the !shop bugs, Thanks!
+Just|n[A] - Since Beta Phase - Found a few spawning issues and some minor bugs, Thanks!
+therock247uk - Since Beta Phase - Helped contribute to finding bugs by playing! Thanks!
+
 End of README.txt
